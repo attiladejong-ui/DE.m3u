@@ -4035,78 +4035,7 @@ http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=1456971&e
 #EXTINF:-1 tvg-id="F1| F1 TV GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP" tvg-name="F1| F1 TV GERMANY",F1| F1 TV GERMANY
 http://fornzeyesonly.xyz:80/play/live.php?mac=00:1A:79:B6:47:6F&stream=920205&extension=ts
 
-#EXTM3U tvg-url="https://xmltv.info/de/epg.xml"
 
-
-
-#EXTINF:-1 tvg-id="?ARD FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ARD FHD",?ARD FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=534&extension=ts
-#EXTINF:-1 tvg-id="?ZDF FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ZDF FHD",?ZDF FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=536&extens=ts
-#EXTINF:-1 tvg-id="?RTL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ? DEUTSCHLAND" tvg-name="?RTL FHD",?RTL FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=538&extension=ts
-#EXTINF:-1 tvg-id="?RTL ZWEI FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ? DEUTSCHLAND" tvg-name="?RTL ZWEI FHD",?RTL ZWEI FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=540&extension=ts
-#EXTINF:-1 tvg-id="?SAT.1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ? DEUTSCHLAND" tvg-name="?SAT.1 FHD",?SAT.1 FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=542&extension=ts
-#EXTINF:-1 tvg-id="?PROSIEBEN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ? DEUTSCHLAND" tvg-name="?PROSIEBEN FHD",?PROSIEBEN FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=544&extension=ts
-#EXTINF:-1 tvg-id="?PROSIEBEN MAXX FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE ? DEUTSCHLAND" tvg-name="?PROSIEBEN MAXX FHD",?PROSIEBEN MAXX FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=546&extension=ts
-#EXTINF:-1 tvg-id="?PROSIEBEN FUN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE ? DEUTSCHLAND" tvg-name="?PROSIEBEN FUN FHD",?PROSIEBEN FUN FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=548&extension=ts
-#EXTINF:-1 tvg-id="?VOX FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE ? DEUTSCHLAND" tvg-name="?VOX FHD",?VOX FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=550&extension=ts
-#EXTINF:-1 tvg-id="?VOXUP FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE ? DEUTSCHLAND" tvg-name="?VOXUP FHD",?VOXUP FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=552&extension=ts
-#EXTINF:-1 tvg-id="?TV NOW FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/now.tv.png" group-title="DE ? DEUTSCHLAND" tvg-name="?TV NOW FHD",?TV NOW FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=554&extension=ts
-#EXTINF:-1 tvg-id="?RTL CRIME FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL-Crime.png" group-title="DE ? DEUTSCHLAND" tvg-name="?RTL CRIME FHD",?RTL CRIME FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=556&extension=ts
-#EXTINF:-1 tvg-id="?SAT.1 GOLD FHD" tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE ? DEUTSCHLAND" tvg-name="?SAT.1 GOLD FHD",?SAT.1 GOLD FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=558&extension=ts
-#EXTINF:-1 tvg-id="?SAT.1 EMOTIONS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sat1emotions.png" group-title="DE ? DEUTSCHLAND" tvg-name="?SAT.1 EMOTIONS FHD",?SAT.1 EMOTIONS FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=560&extension=ts
-#EXTINF:-1 tvg-id="?KABEL EINS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ? DEUTSCHLAND" tvg-name="?KABEL EINS FHD",?KABEL EINS FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=562&extension=ts
-#EXTINF:-1 tvg-id="?KABEL EINS CLASSICS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsclassics.png" group-title="DE ? DEUTSCHLAND" tvg-name="?KABEL EINS CLASSICS FHD",?KABEL EINS CLASSICS FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=565&extension=ts
-#EXTINF:-1 tvg-id="?KABEL EINS DOKU FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE ? DEUTSCHLAND" tvg-name="?KABEL EINS DOKU FHD",?KABEL EINS DOKU FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=566&extension=ts
-#EXTINF:-1 tvg-id="?ZDF NEO FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ZDF NEO FHD",?ZDF NEO FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=568&extension=ts
-#EXTINF:-1 tvg-id="?ZDF INFO FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-info.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ZDF INFO FHD",?ZDF INFO FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=570&extension=ts
-#EXTINF:-1 tvg-id="?NITRO FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="DE ? DEUTSCHLAND" tvg-name="?NITRO FHD",?NITRO FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=572&extension=ts
-#EXTINF:-1 tvg-id="?RTL PASSION FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlpassion.png" group-title="DE ? DEUTSCHLAND" tvg-name="?RTL PASSION FHD",?RTL PASSION FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=574&extension=ts
-#EXTINF:-1 tvg-id="?RTL LIVING FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlliving.png" group-title="DE ? DEUTSCHLAND" tvg-name="?RTL LIVING FHD",?RTL LIVING FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=576&extension=ts
-#EXTINF:-1 tvg-id="?RTL UP FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlup.png" group-title="DE ? DEUTSCHLAND" tvg-name="?RTL UP FHD",?RTL UP FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=578&extension=ts
-#EXTINF:-1 tvg-id="?SIXX FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ? DEUTSCHLAND" tvg-name="?SIXX FHD",?SIXX FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=580&extension=ts
-#EXTINF:-1 tvg-id="?ANIXE+ FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/anixeplus.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ANIXE+ FHD",?ANIXE+ FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=582&extension=ts
-#EXTINF:-1 tvg-id="?ANIXE SERIE FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/anixehdserie.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ANIXE SERIE FHD",?ANIXE SERIE FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=584&extension=ts
-#EXTINF:-1 tvg-id="?ARTE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Arte_Logo_HD.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ARTE FHD",?ARTE FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=586&extension=ts
-#EXTINF:-1 tvg-id="?ROMANCE TV FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/romancetv.png" group-title="DE ? DEUTSCHLAND" tvg-name="?ROMANCE TV FHD",?ROMANCE TV FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=588&extension=ts
-#EXTINF:-1 tvg-id="?HEIMATKANAL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/heimatkanal.png" group-title="DE ? DEUTSCHLAND" tvg-name="?HEIMATKANAL FHD",?HEIMATKANAL FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=590&extension=ts
-#EXTINF:-1 tvg-id="?PULS 24 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/puls24.png" group-title="DE ? DEUTSCHLAND" tvg-name="?PULS 24 FHD",?PULS 24 FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=592&extension=ts
-#EXTINF:-1 tvg-id="?TELE 5 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/Tele-5.png" group-title="DE ? DEUTSCHLAND" tvg-name="?TELE 5 FHD",?TELE 5 FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=594&extension=ts
-#EXTINF:-1 tvg-id="?3SAT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/3Sat.png" group-title="DE ? DEUTSCHLAND" tvg-name="?3SAT FHD",?3SAT FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=596&extension=ts
-#EXTINF:-1 tvg-id="?WDR FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/wdr.png" group-title="DE ? DEUTSCHLAND" tvg-name="?WDR FHD",?WDR FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=598&extension=ts
-#EXTINF:-1 tvg-id="?CHANNEL 21 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Channel-21.png" group-title="DE ? DEUTSCHLAND" tvg-name="?CHANNEL 21 FHD",?CHANNEL 21 FHD
-http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=600&extension=ts
 #EXTINF:-1 tvg-id="ARD HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ? DEUTSCHLAND" tvg-name="ARD HD",ARD HD
 http://tvwerk.live:8080/play/live.php?mac=00:1A:79:6B:BF:6D&stream=535&extension=ts
 #EXTINF:-1 tvg-id="ZDF HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ? DEUTSCHLAND" tvg-name="ZDF HD",ZDF HD
